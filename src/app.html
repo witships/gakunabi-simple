@@ -4,7 +4,8 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="manifest" href="/manifest.webmanifest" />
+		<link rel="manifest" href="%sveltekit.assets%/manifest.webmanifest" />
+
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
@@ -15,7 +16,7 @@
 			if ('serviceWorker' in navigator) {
 				window.addEventListener('load', () => {
 					navigator.serviceWorker
-						.register('/sw.js') // Service Worker ファイルへのパス
+						.register('%sveltekit.assets%/sw.js') // Service Worker ファイルへのパス
 						.then((registration) => {
 							// console.log('ServiceWorker registration successful with scope: ', registration.scope);
 						})
