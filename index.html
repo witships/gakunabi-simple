@@ -4,16 +4,17 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="./favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="manifest" href="/manifest.webmanifest" />
+		<link rel="manifest" href="./manifest.webmanifest" />
+
 		
 		<link href="./_app/immutable/assets/0.BHlCBwkU.css" rel="stylesheet">
 		<link href="./_app/immutable/assets/2.BL97zLAN.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.BlpaKq7b.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CXd7JBSq.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.BZPfitx-.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/BViC0UeD.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/BmMVTwCn.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/Dnm97jhn.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/OoTi-_9u.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.Tjbwgc0z.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.BtzirKT-.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/CUdrXLxc.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/ucPUQK8e.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/mBJVjNyV.js">
@@ -29,15 +30,15 @@
 			
 			<script>
 				{
-					__sveltekit_w0jvr2 = {
+					__sveltekit_2r11gc = {
 						base: new URL(".", location).pathname.slice(0, -1)
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("./_app/immutable/entry/start.BlpaKq7b.js"),
-						import("./_app/immutable/entry/app.Tjbwgc0z.js")
+						import("./_app/immutable/entry/start.BZPfitx-.js"),
+						import("./_app/immutable/entry/app.BtzirKT-.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
 							node_ids: [0, 2],
@@ -55,7 +56,7 @@
 			if ('serviceWorker' in navigator) {
 				window.addEventListener('load', () => {
 					navigator.serviceWorker
-						.register('/sw.js') // Service Worker ファイルへのパス
+						.register('./sw.js') // Service Worker ファイルへのパス
 						.then((registration) => {
 							// console.log('ServiceWorker registration successful with scope: ', registration.scope);
 						})
