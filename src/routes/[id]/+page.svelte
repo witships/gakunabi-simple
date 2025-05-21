@@ -17,21 +17,21 @@
 	let subtitleLength: number = $derived(page[pageIndex].subtitle.length);
 	let subtitleIndex: number = $state(0);
 	let subtitle: string = $derived(page[pageIndex].subtitle[subtitleIndex].text);
-	let stroke: string = $derived(page[pageIndex].subtitle[subtitleIndex].color || 'black');
+	let stroke: string = $derived(page[pageIndex]?.subtitle?.[subtitleIndex]?.color || 'black');
 	let slideSrc: string = $derived(
-		`/${courseId}/img/${page[pageIndex].subtitle[subtitleIndex].slide}`
+		`${base}/${courseId}/img/${page[pageIndex].subtitle[subtitleIndex].slide}`
 	);
-	let actorSrc = $derived(`/actor/${page[pageIndex].subtitle[subtitleIndex].actorImg}`);
+	let actorSrc = $derived(`${base}/actor/${page[pageIndex].subtitle[subtitleIndex].actorImg}`);
 	let setVoice: HTMLAudioElement | null = null;
 	let voiceData: string = $derived(page[pageIndex].subtitle[subtitleIndex].voice);
-	let voiceSrc: string = $derived(`/${courseId}/voice/${voiceData}`);
+	let voiceSrc: string = $derived(`${base}/${courseId}/voice/${voiceData}`);
 	let isAnime: boolean = $derived(page[pageIndex].subtitle[subtitleIndex].anime);
 
 	let isTalking: boolean = $state(false);
 	let isJumped: boolean = $state(true);
 	let isEnd: boolean = $state(false);
 	let listener: string = $derived(`${page[pageIndex].subtitle[subtitleIndex].listener}`);
-	let listenerSrc: string = $derived(`/actor/${listener}`);
+	let listenerSrc: string = $derived(`${base}/actor/${listener}`);
 
 	// 進捗
 	function progressChange() {
