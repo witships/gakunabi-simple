@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	let { data } = $props();
 	const courses = data.couseList as any;
 	// let courses = [{ id: 'history-jp', name: 'きっと分からない日本史' }];
@@ -7,7 +8,7 @@
 <nav class="p-2">
 	<ul>
 		{#each courses as course}
-			<li><a href="/{course.id}" class="hover:bg-black/70 md:text-2xl">{course.name}</a></li>
+			<li><a href="{base}/{course.id}" class="hover:bg-black/70 md:text-2xl">{course.name}</a></li>
 		{/each}
 	</ul>
 </nav>

@@ -1,8 +1,8 @@
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
-// const dev = process.argv.includes('dev');
-// const base = dev ? '' : '/gakunabi-simple';
+const dev = process.argv.includes('dev');
+const base = dev ? '' : '/gakunabi-simple';
 
 const config = {
 	preprocess: vitePreprocess(),
@@ -12,10 +12,10 @@ const config = {
 			// assets: 'build', // デフォルトは 'build'
 			fallback: '404.html' // または 'index.html' をSPAのように動作させたい場合
 			// precompress: false, // 必要に応じて
-		})
-		// paths: {
-		// 	base: base
-		// }
+		}),
+		paths: {
+			base: base
+		}
 	},
 	prerender: {
 		entries: ['*']

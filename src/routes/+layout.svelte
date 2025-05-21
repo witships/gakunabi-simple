@@ -1,6 +1,7 @@
 <script lang="ts">
 	import '../app.css';
 	import 'iconify-icon';
+	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
 	import { writable } from 'svelte/store';
 
@@ -33,7 +34,7 @@
 </script>
 
 <header class="h-12 bg-black/80 p-2 text-white">
-	<a href="/" class=" text-2xl font-bold">ろご</a>
+	<a href="{base}/" class=" text-2xl font-bold">ろご</a>
 </header>
 
 <main class=" overflow-hidden">
