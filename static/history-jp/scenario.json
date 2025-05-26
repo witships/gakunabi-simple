@@ -1,6 +1,6 @@
 {
-	"courseId": "jh_mathematics",
-	"courseName": "ざっくり中学数学",
+	"courseId": "history-jp",
+	"courseName": "きっと分からない日本史",
 	"chapterId": "orientation",
 	"chapterName": "オリエンテーション",
 	"page": [
@@ -8,966 +8,1180 @@
 			"title": "初めから",
 			"subtitle": [
 				{
-					"slide": "00.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "皆さん、こんにちは。学習ナビゲーターのリッカです。",
+					"text": "皆さん、こんにちは。学習ナビゲーターのアオボシです。",
 					"color": "",
-					"voice": "001_女声6_皆さん、こんにちは.mp3"
+					"voice": "001_青山龍星_皆さん、こんにちは.mp3"
 				},
 				{
-					"slide": "00.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「ザックリ学ぶ算数と数学」ということで、嫌いで苦手な人が多い算数と数学を、出来るだけ簡単にふんわり学習していきましょう。",
+					"text": "今回から、日本史について学んでいきましょう。",
 					"color": "",
-					"voice": "002_女声6_「ザックリ学ぶ算数.mp3"
+					"voice": "002_青山龍星_今回から、日本史に.mp3"
 				},
 				{
-					"slide": "00.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "なんか目標が低くくて助かる",
-					"color": "cornflowerblue",
-					"voice": "003_男声1_なんか目標が低くく.mp3"
-				},
-				{
-					"slide": "00.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "学校で習うたくさんの勉強科目の中でも、特に算数や数学は、好き嫌い・得意不得意がハッキリ分かれる科目だと言われています。",
+					"text": "日本史に限ったことではないですが、社会科の勉強って、訳も分からないままのキーワード暗記になってしまいがちですよね。",
 					"color": "",
-					"voice": "004_女声6_学校で習うたくさん.mp3"
+					"voice": "003_青山龍星_日本史に限ったこと.mp3"
 				},
 				{
-					"slide": "00.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学嫌いな人からは「変な図形の面積を求めさせられるなど、こんなの学んでなんの役に立つのか分からない」といった不満の声が多いですね",
+					"text": "例えば「607年に小野妹子が遣隋使として派遣された」とか言われても、何一つピンと来ません。",
 					"color": "",
-					"voice": "005_女声6_数学嫌いな人からは.mp3"
+					"voice": "004_青山龍星_例えば「607年に.mp3"
 				},
 				{
-					"slide": "00.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "分かる。本当にソレ",
-					"color": "cornflowerblue",
-					"voice": "006_男声1_わかるーー、ほんと.mp3"
-				},
-				{
-					"slide": "08.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "それに対して、数学好きな人は、「パズルみたいなもんで、上手く解けると楽しいじゃん」といった返しをする人が多く、",
+					"text": "「ふーん、そうだんだ……、で、だからなんなの？」って感じになりませんか？",
 					"color": "",
-					"voice": "007_女声6_それに対して、数学.mp3"
+					"voice": "005_青山龍星_「ふーん、そうだん.mp3"
 				},
 				{
-					"slide": "08.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "history-jp.png",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "なる！ それはめっちゃなる！",
+					"color": "darkred",
+					"voice": "006_雨晴はう_なる！　それはめっ.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "あくまでゲーム感覚で「適度に説きにくい難易度があった方がやりがいがあって楽しい」という考え方なんですよね。",
+					"text": "自分に何の影響もない話ですし、何故それを覚える必要があるのかも不明です。",
 					"color": "",
-					"voice": "008_女声6_あくまでゲーム感覚.mp3"
-				},
-				{
-					"slide": "08.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "そのため、「生活に役立つかどうかなんて、最初から数学に求めてない」という人も少なくありません。",
-					"color": "",
-					"voice": "009_女声6_そのため、「生活に.mp3"
-				},
-				{
-					"slide": "08.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "なんだソレ!?",
-					"color": "cornflowerblue",
-					"voice": "010_男声1_なんーーじゃそれ.mp3"
-				},
-				{
-					"slide": "08.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "まあこれは数学に限った話ではないかもしれませんけどね。",
-					"color": "",
-					"voice": "011_女声6_まあこれは数学に限.mp3"
+					"voice": "007_青山龍星_自分になんの影響も.mp3"
 				}
 			]
 		},
 		{
-			"title": "勉強の意義？",
+			"title": "事実なら重要？",
 			"subtitle": [
 				{
-					"slide": "02.png",
-					"actor": "麒ヶ島宗麟（ノーマル）",
-					"actorImg": "sarcastic_teacher.png",
-					"anime": false,
-					"listener": "",
-					"text": "勉強というのはあくまでも知的教養を磨くもので、生活とは切り離して考えるもの。",
-					"color": "goldenrod",
-					"voice": "012_麒ヶ島宗麟_勉強というのはあく.mp3"
-				},
-				{
-					"slide": "02.png",
-					"actor": "麒ヶ島宗麟（ノーマル）",
-					"actorImg": "sarcastic_teacher.png",
-					"anime": false,
-					"listener": "",
-					"text": "国語で古文漢文を学んでも生活には役に立たないし、社会で縄文時代について学んでも役に立たない。",
-					"color": "goldenrod",
-					"voice": "013_麒ヶ島宗麟_国語で古文漢文を学.mp3"
-				},
-				{
-					"slide": "02.png",
-					"actor": "麒ヶ島宗麟（ノーマル）",
-					"actorImg": "sarcastic_teacher.png",
-					"anime": false,
-					"listener": "",
-					"text": "だから、数学だって生活に役立たなくてもいい。勉強とはそういうものだ！",
-					"color": "goldenrod",
-					"voice": "014_麒ヶ島宗麟_だから、数学だって.mp3"
-				},
-				{
-					"slide": "02.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "先生や勉強が得意な人ほどこういった考え方なんですよね。",
+					"text": "先生たちは「歴史的事実なんだから大事なことです！」みたいに言うけど、そんな理屈は学問に対する冒涜ですよね。",
 					"color": "",
-					"voice": "015_女声6_先生や勉強が得意な.mp3"
+					"voice": "008_青山龍星_先生たちは「歴史的.mp3"
 				},
 				{
-					"slide": "02.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ほかの暗記科目に比べれば「計算で頭を使える分だけまだ数学の方が楽しめる」といった感じだそうです。",
+					"text": "例えば、神話や文学は事実ではないフィクションですけど、その中には大事なことだってたくさんありますし、",
 					"color": "",
-					"voice": "016_女声6_ほかの暗記科目に比.mp3"
+					"voice": "009_青山龍星_例えば、神話や文学.mp3"
 				},
 				{
-					"slide": "02.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "勉強嫌いな人にとっては根本的に理解不能なんですよね。",
+					"text": "科学だって、未知のものを解明してく学問なんだから「事実かどうか分からないものに挑むこと」が大事な本質です。",
 					"color": "",
-					"voice": "017_女声6_勉強嫌いな人にとっ.mp3"
+					"voice": "010_青山龍星_科学だって、未知の.mp3"
 				},
 				{
-					"slide": "02.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "そう！ 本当にそう！",
-					"color": "cornflowerblue",
-					"voice": "018_男声1_そう！ ほんとそう.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "また、数ある勉強科目の中でも、特に算数・数学は積み重ねの学問と言われます。",
+					"text": "「事実かどうか」と「それが大事かどうか」は、独立した別の評価軸なんですよ。",
 					"color": "",
-					"voice": "019_女声6_また、数ある勉強科.mp3"
+					"voice": "011_青山龍星_「事実かどうかと、.mp3"
 				},
 				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「面積が分からないと体積も分からない」「素数が分からないと、素因数分解なんて分かる訳ない」といったように、",
+					"text": "「事実だから大事」なんて理屈では、あまりに説明不足ですね。",
 					"color": "",
-					"voice": "020_女声6_「面積が分からない.mp3"
+					"voice": "012_青山龍星_「事実だから大事」.mp3"
 				},
 				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "おお？ なんだなんだ、いったいなんの話だ？",
+					"color": "darkred",
+					"voice": "013_雨晴はう_おおう、なんだなん.mp3"
+				},
+				{
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「1度どこかで躓くと、それ以降の話に全く付いていけなくなる」といったケースが起きやすいんですよね。",
+					"text": "……といったように、文句を言いたい気持ちは大いにあるんですが、それを言っても仕方ありません。",
 					"color": "",
-					"voice": "021_女声6_「1度どこかで躓く.mp3"
+					"voice": "014_青山龍星_といったように、文.mp3"
 				},
 				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "fact.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "これがほかの科目の場合、例えば理科だと「昆虫の話は興味ないけど、電気の話は面白い」といった、気持ちを切り替えられるポイントがあります。",
+					"text": "試験に出るなら勉強せざるを得ない。それが逃れようのない現実です。",
 					"color": "",
-					"voice": "022_女声6_これがほかの科目の.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "しかし数学の場合、例えば「小学生の時に分数の割り算で躓いて、それからもう一生数学嫌いのまま」みたいな人も珍しくありません。",
-					"color": "",
-					"voice": "023_女声6_しかし数学の場合、.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "「国立大学の学生なのに、小学生レベルの計算問題も解けない」といったケースもごくごく当たり前に起きています。",
-					"color": "",
-					"voice": "024_女声6_「国立大学の学生な.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "そのため「勉強しているうちにだんだん分かってくるから、今の理解が浅くてもとりあえず先に進もう」といった学習は向いておらず、",
-					"color": "",
-					"voice": "025_女声6_そのため「勉強して.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "「周りと比べて遅くてもいいから、自分のペースで１つ１つきちんと理解してから先に進むことが重要」とされています。",
-					"color": "",
-					"voice": "026_女声6_「周りと比べて遅く.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "一斉授業形式である学校の授業とは、実は最も相性が悪いのが算数・数学なんですよね。",
-					"color": "",
-					"voice": "027_女声6_一斉授業形式である.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "へえ、そうだったんだ。",
-					"color": "cornflowerblue",
-					"voice": "028_男声1_へえ、そうだったん.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "とまあ、そんな話をしだしたらキリがないので教育論については別の機会に回すとして、このコースではそんな算数・数学についてお話していきます。",
-					"color": "",
-					"voice": "029_女声6_とまあ、そんな話を.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "ちなみに、厳密に言えば算数と数学には明確な違いがあるのですが、一般的には「簡単なのが算数・難しいのが数学」くらいの捉え方だと思います。",
-					"color": "",
-					"voice": "030_女声6_ちなみに、厳密に言.mp3"
-				},
-				{
-					"slide": "01.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "このコースにおいてもそんな感じで「似たようなもの」と捉えているので、これからは数学という呼び方で統一しますね。",
-					"color": "",
-					"voice": "031_女声6_このコースにおいて.mp3"
+					"voice": "015_青山龍星_試験に出るなら勉強.mp3"
 				}
 			]
 		},
 		{
-			"title": "数学の意義",
+			"title": "自分の目的",
 			"subtitle": [
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "さて今回は、初回オリエンテーションということで、先ほどスルーした「数学なんて学んでなんの役に立つのか？」という問いに改めてぶつかってみましょう。",
+					"text": "ただ、覚悟を決めて頑張って勉強してみたところで「それでも、やっぱり何一つ頭に入ってこない」という人も少なくないのではないでしょうか？",
 					"color": "",
-					"voice": "032_女声6_さて今回は、初回オ.mp3"
+					"voice": "016_青山龍星_ただ、覚悟を決めて.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
-					"listener": "boy.png",
-					"text": "おお、マジでか？",
-					"color": "cornflowerblue",
-					"voice": "033_男声1_おお、マジでか？.mp3"
+					"listener": "bike_girl.png",
+					"text": "はいはーい、それ私でーす",
+					"color": "darkred",
+					"voice": "017_雨晴はう_はいはーい、それ私.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "いきなり結論を言ってしまうと、数学の最大の本質とは「コミュニケーション」です。",
+					"text": "その原因は、いったいどこにあるのでしょうか？",
 					"color": "",
-					"voice": "034_女声6_いきなり結論を言っ.mp3"
+					"voice": "018_青山龍星_その原因はいったい.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "いやいやいや、それはない。\nそういうのは、せめて国語でしょ。",
-					"color": "cornflowerblue",
-					"voice": "035_男声1_いやいやいや、それ.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学を、「難しい計算をすること」とか、「論理的に考えること」とか、そういったものと捉えている人が多いのではないでしょうか？",
+					"text": "私は「学ぶ意義や目的が分からない」という点にあるのではないかと考えています。",
 					"color": "",
-					"voice": "036_女声6_数学を、「難しい計.mp3"
+					"voice": "019_青山龍星_私は「学ぶ意義や目.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "しかし、そんなものは数学の副産物に過ぎません。",
+					"text": "もし、この仮説が正しければ解決策は簡単です。「学ぶ意義や目的」を自分で作っちゃえばいいんです！",
 					"color": "",
-					"voice": "037_女声6_しかし、そんなもの.mp3"
+					"voice": "020_青山龍星_もしこの仮説が正し.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "during.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "なんですと！？",
+					"color": "darkred",
+					"voice": "021_雨晴はう_なんですと！？.mp3"
+				},
+				{
+					"slide": "curious.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学とは「ほかの誰かとできるだけ認識を合わせるため」に生まれたものです。",
+					"text": "例えば「なぜ人類は戦争を繰り返してしまうのか？ 過去の戦争から原因を探りたい」みたいな自分なりのテーマがあれば、",
 					"color": "",
-					"voice": "038_女声6_数学とは、ほかのだ.mp3"
+					"voice": "022_青山龍星_例えば「なぜ人類は.mp3"
 				},
 				{
-					"slide": "04.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "curious.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "例えば、「むこうにすっごい大きな動物がいた！」って言われたら、皆さんはどれくらいの大きさを想像しますか？",
+					"text": "「地域や時代によって戦争の原因も色々あるんだなぁ」といったように、自分なりに考えられるポイントが生まれるでしょう。",
 					"color": "",
-					"voice": "039_女声6_例えば、「むこうに.mp3"
+					"voice": "023_青山龍星_「地域や時代によっ.mp3"
 				},
 				{
-					"slide": "04.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "curious.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "2mくらいの熊？ 3mくらいの象？ それとも5mくらいのキリン？",
+					"text": "たとえ学校の勉強に学ぶ意義や目的が無かったとしても、「自分だけの目的」なら自分で作ってもいいですよね？",
 					"color": "",
-					"voice": "040_女声6_2メートルくらいの.mp3"
+					"voice": "024_青山龍星_たとえ学校の勉強に.mp3"
 				},
 				{
-					"slide": "04.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "curious.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "おお、マジか!? そういう発想はなかったわ。",
+					"color": "darkred",
+					"voice": "025_雨晴はう_おおお、マジか! .mp3"
+				},
+				{
+					"slide": "curious.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "もし数字というものが無かったら、言葉だけで動物の大きさを伝えるだけでも難しく、人それぞれの想像は簡単に大きくズレてしまうわけです。",
+					"text": "……ということで、自分で勝手に「学ぶ意義や目的」を作ってしまった方が、歴史の勉強もいくらかマシになると思いますよ。",
 					"color": "",
-					"voice": "041_女声6_もし数字というもの.mp3"
+					"voice": "026_青山龍星_ということで、.mp3"
 				},
 				{
-					"slide": "05.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "curious.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ほかにも例えば、「敵がたくさん攻めてきたぞ！」なんて言われても、対処しにくいでしょう？",
+					"text": "まあ、いきなりそんなことを言われても、自分の学習テーマを作るというのも簡単ではありませんよね。",
 					"color": "",
-					"voice": "042_女声6_ほかにも例えば、「.mp3"
-				},
-				{
-					"slide": "05.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "10人なのか、100人なのか、1000人なのか、それ次第で戦うべきか、逃げるべきか、降参すべきかも変わりますよね。",
-					"color": "",
-					"voice": "043_女声6_10人なのか100.mp3"
-				},
-				{
-					"slide": "05.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "「3時方向から敵襲！ 数およそ50人、距離およそ100m」と報告してくれた方が、はるかに対処しやすい訳です。",
-					"color": "",
-					"voice": "044_女声6_「3時方向から敵襲.mp3"
-				},
-				{
-					"slide": "05.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "まあまあ、それは確かに",
-					"color": "cornflowerblue",
-					"voice": "045_男声1_まあまあ、それは確.mp3"
+					"voice": "027_青山龍星_まあいきなりそんな.mp3"
 				}
 			]
 		},
 		{
-			"title": "誰が決めたの？",
+			"title": "良い社会とは？",
 			"subtitle": [
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数字とは、私たちにとってはすでにあまりに身近過ぎて、あって当たり前のものですが、最初からあったものではありません。",
+					"text": "そこで、このコースでは、私の個人的なテーマである「日本における良い社会とは何か？」を基に、日本史を見ていきます。",
 					"color": "",
-					"voice": "046_女声6_数字とは、私たちに.mp3"
+					"voice": "028_青山龍星_そこで、このコース.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「自然発生的に生まれた概念」みたいに思ってしまいがちですが、そんなことはありません。",
+					"text": "試験の成績向上にはきっと何も貢献しないと思いますが、多少なりとも勉強の精神的苦痛が和らげば幸いです。",
 					"color": "",
-					"voice": "047_女声6_自然発生的に生まれ.mp3"
+					"voice": "029_青山龍星_試験の成績向上には.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "それはそれでなんだかなぁ……。",
+					"color": "darkred",
+					"voice": "030_雨晴はう_それはそれでなんだ.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "昔の誰かが生み出した、偉大な発明なんです。",
+					"text": "ということで改めて、私のテーマは「日本における良い社会とは何か？」です",
 					"color": "",
-					"voice": "048_女声6_昔の誰かが生み出し.mp3"
+					"voice": "031_青山龍星_ということで改めて.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "例えば、「なんで1日は24時間なんだろう？ なんで1時間は60分なんだろう？」とか疑問に感じたことってありますよね？",
+					"text": "例えば、皆さんが公務員になることを目指しているとします。公務員試験の範囲なので、仕方なく日本史の勉強が必要なのだとしましょう。",
 					"color": "",
-					"voice": "049_女声6_例えば、「なんで1.mp3"
+					"voice": "032_青山龍星_例えば、皆さんが公.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "ああ、あるある！　それはある！",
-					"color": "cornflowerblue",
-					"voice": "050_男声1_ああ、あるある！　.mp3"
-				},
-				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「1時間は60分であることは自然の摂理、そんなの宇宙の法則として当然！」なんてことはありませんよね。",
+					"text": "では、なぜ公務員になるために日本史の勉強が必要になるのでしょうか？",
 					"color": "",
-					"voice": "051_女声6_「1時間は60分で.mp3"
+					"voice": "033_青山龍星_では、なぜ公務員に.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "これは単に「昔の誰かがそう決めた」だけに過ぎません。",
+					"text": "縄文時代の遺跡の名前を覚えたって、公務員の仕事に一切なんの役にも立ちませんよね？ そのような内容を学んでどうするんですか？",
 					"color": "",
-					"voice": "052_女声6_これは単に「昔の誰.mp3"
+					"voice": "034_青山龍星_縄文時代の遺跡の名.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "それはこっちが訊きたい！",
+					"color": "darkred",
+					"voice": "035_雨晴はう_それはこっちが訊き.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "人が作ったルールに過ぎないんだから、今からそのルールを変更したって構わないんですよ？。",
+					"text": "では、逆の質問をしてみましょう。「公務員になるために必要な勉強」を考えるとしたら、どのようなものがあるでしょう？",
 					"color": "",
-					"voice": "053_女声6_人が作ったルールに.mp3"
+					"voice": "036_青山龍星_では、逆の質問をし.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "例えば将来、人類が火星に移住したとして、火星の1日は何時間に設定すべきでしょうか？",
+					"text": "政治も必要だし、経済も必要だし、法律も必要だし……。恐らく、１つ１つ挙げたらキリがないほど色々あると思います。",
 					"color": "",
-					"voice": "054_女声6_例えば将来、人類が.mp3"
+					"voice": "037_青山龍星_政治も必要だし、経.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "火星の1日は、地球時間に換算すると、約24時間39分35秒です。地球とかなり近い時間間隔ですね。",
+					"text": "そして、その中の1つとして「日本社会の特徴を知ること」というのもあるのではないでしょうか？",
 					"color": "",
-					"voice": "055_女声6_火星の1日は、地球.mp3"
+					"voice": "038_青山龍星_そして、その中の1.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "しかしだからと言って、実際に火星で暮らす場合「1日を24時間39分35秒とする時計」を使うのは、なんだか不便そうではないですか？",
+					"text": "警察官だろうが消防士だろうが教師だろうがお役所勤めだろうが、全ての公務員に共通する根本的な仕事・根本的な役割は、",
 					"color": "",
-					"voice": "056_女声6_しかしだからと言っ.mp3"
+					"voice": "039_青山龍星_警察官だろうが消防.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "それならば、火星の1日を24等分して「火星でも1日を24時間とする」とした方が、きっと生活しやすいでしょう。",
+					"text": "「より良い社会を作って、国民の安全と幸せを守ること」でしょう。",
 					"color": "",
-					"voice": "057_女声6_それならば、火星の.mp3"
+					"voice": "040_青山龍星_「より良い社会を作.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "goodsociety.jpg",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "ああ、うん。それはそうだと思う。",
+					"color": "darkred",
+					"voice": "041_雨晴はう_あああ、うん。それ.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "そうすると「地球時間での1秒と、火星時間での1秒は長さが違う」ということになりますが、別にそれでも構いませんよね？",
+					"text": "では、その場合の「良い社会」ってなんですかね？ どんな社会が良い社会なのでしょうか？",
 					"color": "",
-					"voice": "058_女声6_そうすると「地球時.mp3"
+					"voice": "042_青山龍星_では、その場合の良.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "このようにして新しい単位が生まれる。その積み重ねが数学なんです。",
+					"text": "それが分からないと、公務員として、どういう仕事をすればいいのか分かりませんよね？",
 					"color": "",
-					"voice": "059_女声6_このようにして新し.mp3"
+					"voice": "043_青山龍星_それが分からないと.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学を「無味乾燥な数字」と捉えている人が多いですが、実は意外と人間味みたいなところがあるでしょ？",
+					"text": "「とにかく良い社会を目指して一生懸命仕事を頑張ります！」なんて言われても、それでは説得力がありません。",
 					"color": "",
-					"voice": "060_女声6_数学を無味乾燥な数.mp3"
+					"voice": "044_青山龍星_「とにかく良い社会.mp3"
 				},
 				{
-					"slide": "06.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "ああ、なるほど。数学って、実は人間の都合で作ったルールの集合体みたいなものでもあるんだ。",
-					"color": "cornflowerblue",
-					"voice": "061_男声1_ああ、なるほど。数.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学について考える際「地球でも火星でも宇宙の果てでも、どこでも素数が素数であることは変わらないように、数学とは絶対不変のルールである」と語られがちです。",
+					"text": "「圧倒的な経済成長」を求めているのか、それとも「安定した穏やかな社会」を求めているのか、それだけでも社会の方向性はかなり違います。",
 					"color": "",
-					"voice": "062_女声6_数学について考える.mp3"
+					"voice": "045_青山龍星_「圧倒的な経済成長.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "しかし「日本は今はメートル法を使っているが、昔は尺貫法だった。アメリカは今でもヤードポンド法を使っている」といったような、",
+					"text": "「日本が目指す良い社会」って何ですか？ 「国民が求める良い社会」って何でしょうか？",
 					"color": "",
-					"voice": "063_女声6_しかし「日本は今は.mp3"
+					"voice": "046_青山龍星_日本が目指す良い社.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "地域や時代によって幾らでも変わる「その社会で現在使われている基準やルールに過ぎない」という側面も持っているのです。",
+					"text": "まずそれに答えられないことには、「より良い社会を目指す」なんて言えない訳です。",
 					"color": "",
-					"voice": "064_女声6_地域や時代によって.mp3"
+					"voice": "047_青山龍星_まずそれに答えられ.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "むしろそう捉えた方が、数学がグッと身近になると思いますよ。",
+					"text": "これは正解のない問いですし、人それぞれ色んな回答があって然るべきでしょうが、",
 					"color": "",
-					"voice": "065_女声6_むしろそう捉えた方.mp3"
+					"voice": "048_青山龍星_これは正解のない問.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "例えば小学校で習う範囲だと「長さや面積の計算」「量や重さの計算」「時間と速さの計算」などがありますよね？",
+					"text": "少なくとも、公務員を目指すのであれば特に、何も答えられないというのはNGですよね？",
 					"color": "",
-					"voice": "066_女声6_例えば小学校で習う.mp3"
+					"voice": "049_青山龍星_少なくとも、公務員.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "うぐぐ……、まあそれはそうかもしれないけど、そういうのってなんというか抽象的で、うまく言葉にできなくない？",
+					"color": "darkred",
+					"voice": "050_雨晴はう_うぐぐ、まあそ.mp3"
+				},
+				{
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "これらもみんな「その社会の中で使われている基準に沿って、他者と同じ基準で話すため」に習っている内容なのです。",
+					"text": "……などと言い訳したい気持ちも分かります。",
 					"color": "",
-					"voice": "067_女声6_これらもみーんな「.mp3"
+					"voice": "051_青山龍星_などと言い訳し.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「宇宙を紐解く不変の法則」みたいな壮大な話ではなく、「ネギ３本ください」といった日常会話のための数学なんですね。",
+					"text": "身近で当たり前のものって、かえって言語化が難しいんですよね。",
 					"color": "",
-					"voice": "068_女声6_「宇宙を紐解く不変.mp3"
+					"voice": "052_青山龍星_身近で当たり前のも.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "なんか、想像以上に身近な話になったな",
-					"color": "cornflowerblue",
-					"voice": "069_男声1_なんか、想像以上に.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "foolish.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "学校の勉強では「2+3は5」「6×7は42」といったように、数字だけの計算を訓練するところから始まるので、",
+					"text": "日本生まれ日本育ちで日本の文化や価値観にどっぷり浸かっているからこそ、かえってその特徴を自覚するのが難しいってこともあるでしょう。",
 					"color": "",
-					"voice": "070_女声6_学校の勉強では「2.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "「数学とは計算能力を伸ばす訓練のようなもの」と捉えてしまっている人が少なくないでしょう。",
-					"color": "",
-					"voice": "071_女声6_「数学とは計算能力.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "しかし、数字だけでは「それがなんの数字なのか」「何のための計算なのか」分かりません。",
-					"color": "",
-					"voice": "072_女声6_しかし、数字だけで.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "たとえどんなに計算が早くて数字が正確でも、それだけでは「相手に何を伝えたいのか」すら伝えられません。",
-					"color": "",
-					"voice": "073_女声6_たとえどんなに計算.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "",
-					"text": "あくまでも「相手に、より正確に伝えられるようにする」ということを目的として、そのために数字を使っているだけなのです。",
-					"color": "",
-					"voice": "074_女声6_あくまでも「相手に.mp3"
+					"voice": "053_青山龍星_日本生まれ日本育ち.mp3"
 				}
 			]
 		},
 		{
-			"title": "整理",
+			"title": "アメリカの場合",
 			"subtitle": [
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ほらね。「コミュニケーションの方が数学の本質だ」って言えるでしょ？",
+					"text": "では、いったん比較として、アメリカについて考えてみるとどうでしょう？",
 					"color": "",
-					"voice": "075_女声6_ほらね。「コミュニ.mp3"
+					"voice": "054_青山龍星_ではいったん比較と.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "ふーん、そっかあ、なんかちょっとそんな気がしてきたかも……",
-					"color": "cornflowerblue",
-					"voice": "076_男声1_ふーん、そっかあ、.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "では、どんなことなら、数字を使うことで、より正確に伝えられるようになるのでしょうか？",
+					"text": "外から見るからこそ、なんとなくのイメージでも「アメリカらしさ」みたいなものが見えたりしますよね？",
 					"color": "",
-					"voice": "077_女声6_では、どんなことな.mp3"
+					"voice": "055_青山龍星_外から見るからこそ.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ちょっと考えただけでも「数量、大きさ、重さ、広さ、方角、時間、温度、金額」などが挙げられるでしょう。",
+					"text": "ひと言で端的に言ってしまうと、アメリカは自由と闘争の国です。",
 					"color": "",
-					"voice": "078_女声6_ちょっと考えただけ.mp3"
+					"voice": "056_青山龍星_ひとことで端的に言.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "それらを正確に伝えようと思ったら、まず先にそれらを正確に計測できなければなりませんね。",
+					"text": "困窮したイギリスから脱出して新大陸に移住し、過酷な環境の中で必死に開拓を進めて領土を広げていったんですよね。",
 					"color": "",
-					"voice": "079_女声6_それらを正確に伝え.mp3"
+					"voice": "057_青山龍星_困窮したイギリスか.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "だから、それらを正確に測れるように、その計測方法や計算方法を習う。それが小学校や中学校の数学の授業なのです。",
+					"text": "しかし、自分たちで開拓していったにも関わらず、遠くの母国イギリスによる支配が強かったため、戦争によって独立を勝ち取って国が出来たわけです。",
 					"color": "",
-					"voice": "080_女声6_だから、それらを正.mp3"
+					"voice": "058_青山龍星_しかし、自分たちで.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "へえ、なるほど、そう言われると、学校で習う範囲って、理に叶ってるっちゃ叶ってる……のか？",
-					"color": "cornflowerblue",
-					"voice": "081_男声1_へえなるほど、そう.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "はるか昔、人類はそもそも数字を持っていませんでした。",
+					"text": "この歴史的背景から、アメリカ人には「自由と権利は戦って勝ち取るもの」という価値観が根底にあります。",
 					"color": "",
-					"voice": "082_女声6_はるか昔、人類はそ.mp3"
+					"voice": "059_青山龍星_この歴史的背景から.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「石の重さ」も「夏の暑さ」も、「重い」とか「暑い」とか、言葉で表現するしかなく、情報伝達において頻繁にズレが発生していました。",
+					"text": "だからこそ「国に生活を保障してもらう」なんて受け身の発想は非常に希薄であり、何事も「まず自力でなんとかしろ！」という発想が根底にあります。",
 					"color": "",
-					"voice": "083_女声6_石の重さも夏の暑さ.mp3"
+					"voice": "060_青山龍星_だからこそ「国に生.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "statue..webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数字を発明することによって「太陽が昇り1度沈んでから再度昇るまでを1日とする」「1日に必要なパンの重さを1ポンドとする」といったように、",
+					"text": "日常の安全と平和について考える場合でも、日本ではすぐに警察に頼ることを連想しますが、アメリカでは自分の身は自分で守るのが大前提です。",
 					"color": "",
-					"voice": "084_女声6_数字を発明すること.mp3"
+					"voice": "061_青山龍星_日常の安全と平和に.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「１つ１つ基準を作って、少しずつ円滑に情報伝達できることを増やしていった」そんな試行錯誤の積み重ねが数学なのです。",
+					"text": "映画の「ホームアローン」を観ると、非常に分かりやすいでしょう。",
 					"color": "",
-					"voice": "085_女声6_１つ１つ基準を作っ.mp3"
+					"voice": "062_青山龍星_映画のホームアロー.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "ああ、なんだか、ちょっと数学にロマン感じてきたかも",
-					"color": "cornflowerblue",
-					"voice": "086_男声1_ああ、なんだか、ち.mp3"
-				},
-				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学は「よく分からない難しい計算をしてばかりの、無味乾燥で役に立つのか分からない変な勉強」などでは決してなく、",
+					"text": "たとえ子供だろうと、「誰か助けて！」「警察とか保護施設の人とか助けて！」じゃないんですよ。",
 					"color": "",
-					"voice": "087_女声6_数学は、よく分から.mp3"
+					"voice": "063_青山龍星_たとえ子供だろうと.mp3"
 				},
 				{
-					"slide": "03.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "むしろ正反対で、生活に極めて密接に関係していて、この上ないくらいに非常に役に立つ内容なのです。",
+					"text": "「甘ったれんな！自分の身を守るためには、まず自分で戦え！」という精神が根底にあるんですね。",
 					"color": "",
-					"voice": "088_女声6_むしろ正反対で、生.mp3"
+					"voice": "064_青山龍星_「甘ったれんな！自.mp3"
 				},
 				{
-					"slide": "07.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
-					"anime": true,
-					"listener": "boy.png",
-					"text": "うーん、でも、実際のところ、学校のテストとかで出る問題って、\n何を身につけさせたいのか、よく分かんない問題ばっかなんだよなあ。",
-					"color": "cornflowerblue",
-					"voice": "089_男声1_うーん、でも、実際.mp3"
-				},
-				{
-					"slide": "07.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ああ、それは、数学をパズルゲーム程度にしか思ってない人が教師やってるせいですね。",
+					"text": "あくまでコメディ映画として、気軽に楽しめる内容にはなっていますが、",
 					"color": "",
-					"voice": "090_女声6_ああ、それは、数学.mp3"
+					"voice": "065_青山龍星_あくまでコメディ映.mp3"
 				},
 				{
-					"slide": "07.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "ピアノを習い始めたばかりの子供に、無理やり月光を弾かせようとするようなもので、「難しいことを出来るようにさせるのが教育」だと考えているからでしょう。",
+					"text": "「たとえ相手が凶悪な犯罪者だろうと、逃げずに戦う勇気が必要だ。そんなことは子供でも知っている」",
 					"color": "",
-					"voice": "091_女声6_ピアノを習い始めた.mp3"
+					"voice": "066_青山龍星_「たとえ相手が凶悪.mp3"
 				},
 				{
-					"slide": "07.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "「難しい問題を解けた時の喜びを知れば、きっとすぐに数学が好きになるはず」と勘違いしているんですね。",
+					"text": "……というゴリゴリにハードなアメリカらしさが表れているのです。",
 					"color": "",
-					"voice": "092_女声6_「難しい問題を解け.mp3"
+					"voice": "067_青山龍星_というゴリゴリにハ.mp3"
 				},
 				{
-					"slide": "07.png",
-					"actor": "女声6（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "homealone.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "ええ？ そんな映画だったっけ？",
+					"color": "darkred",
+					"voice": "068_雨晴はう_えええ？そんな映画.mp3"
+				},
+				{
+					"slide": "homealone.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
 					"listener": "",
-					"text": "数学の先生が張り切れば張り切るほど、かえって数学が嫌いになる子供が増えていくことでしょう。",
+					"text": "こういった点が分かってくると、色んなところで「日本社会」と「アメリカ社会」には違いがあることが分かってきます。",
 					"color": "",
-					"voice": "093_女声6_数学の先生が張り切.mp3"
+					"voice": "069_青山龍星_こういった点が分か.mp3"
+				}
+			]
+		},
+		{
+			"title": "いじめの場合",
+			"subtitle": [
+				{
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "例えば「いじめ問題にどう対応すべきか？」といった問題でも、日本とアメリカでは考え方が大きく違います。",
+					"color": "",
+					"voice": "070_青山龍星_例えば「いじめ問題.mp3"
 				},
 				{
-					"slide": "07.png",
-					"actor": "男声1（ノーマル）",
-					"actorImg": "anime_rikka.png",
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
 					"anime": true,
-					"listener": "boy.png",
-					"text": "あっ、ああ……、ああ……………………",
-					"color": "cornflowerblue",
-					"voice": "094_男声1_ああ、あああ、ああ.mp3"
+					"listener": "",
+					"text": "日本でいじめが起きた場合「やられてもやり返しちゃダメ、すぐに親や先生に相談しなさい」なんて言われますよね。",
+					"color": "",
+					"voice": "071_青山龍星_日本でいじめが起き.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "しかし、アメリカの場合「戦う勇気が無いものに自由も権利もない」というのは当たり前のことです。",
+					"color": "",
+					"voice": "072_青山龍星_しかしアメリカの場.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「大人を頼る前に、まずは自分でやり返せ！」というのが重要な教えになることが分かるでしょう。",
+					"color": "",
+					"voice": "073_青山龍星_「大人を頼る前に、.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "うわあ、なんか野蛮。",
+					"color": "darkred",
+					"voice": "074_雨晴はう_うわあ、なんか野蛮.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "アメリカにおいては、大人は子供を守り過ぎてもいけないんです。それはむしろ「過保護」という害悪になってしまうからです。",
+					"color": "",
+					"voice": "075_青山龍星_アメリカにおいては.mp3"
+				},
+				{
+					"slide": "bear.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "クマなどの野生動物の子育てをイメージすると分かりやすいと思いますが、大人に守ってもらおうとするうちは未熟な子供に過ぎません。",
+					"color": "",
+					"voice": "076_青山龍星_クマなどの野生動物.mp3"
+				},
+				{
+					"slide": "bear.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "いつまでも子供を守ろうとすると、子供はいつまでも弱いままで1人立ちできないんですよ。",
+					"color": "",
+					"voice": "077_青山龍星_いつまでも子供を守.mp3"
+				},
+				{
+					"slide": "bear.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「子供に戦う勇気を身に着けさせる。それでこそ子供は自立して立派に成長する」それがアメリカの価値観です。",
+					"color": "",
+					"voice": "078_青山龍星_子供に戦う勇気を身.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「バック・トゥ・ザ・フューチャー」や「スパイダーマン」などもその典型ですね。",
+					"color": "",
+					"voice": "079_青山龍星_バックトゥーザフュ.mp3"
+				},
+				{
+					"slide": "backto.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "ああ、なるほど！「戦う勇気」ってだけ聞くと野蛮な感じがしてたけど、動物の子育てって聞くとすごく自然な考え方なんだ。",
+					"color": "darkred",
+					"voice": "080_雨晴はう_あああああ、なるほ.mp3"
+				}
+			]
+		},
+		{
+			"title": "社会保障の場合",
+			"subtitle": [
+				{
+					"slide": "workers.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "社会保障などについて考える場合も、その延長線で考えることが出来ます。",
+					"color": "",
+					"voice": "081_青山龍星_社会保障などについ.mp3"
+				},
+				{
+					"slide": "workers.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "貧富の格差が激しいとか、医療費が高いとか、社会保障の観点で見るとアメリカ社会は優しくありません。",
+					"color": "",
+					"voice": "082_青山龍星_貧富の格差が激しい.mp3"
+				},
+				{
+					"slide": "workers.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "しかし、それは「国になんとかしてもらおうと期待するんじゃなく、まず自分で行動しろ！」という考え方が根底にあるからです。",
+					"color": "",
+					"voice": "083_青山龍星_しかしそれは「国に.mp3"
+				},
+				{
+					"slide": "workers.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "程度の違いこそあれ「国に守ってもらおうとするようでは、母親に守ってもらおうとしている子熊と同レベルだ」と、そう見えてしまうからですね。",
+					"color": "",
+					"voice": "084_青山龍星_程度の違いこそあれ.mp3"
+				},
+				{
+					"slide": "workers.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "そのため、下手に社会保障を手厚くしようとすると、「国民を子ども扱いする気か！」という反感すら生まれてしまうのです。",
+					"color": "",
+					"voice": "085_青山龍星_そのため、下手に社.mp3"
+				},
+				{
+					"slide": "workers.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "うわあ、びっくりするくらい価値観が違うんだ！",
+					"color": "darkred",
+					"voice": "086_雨晴はう_うわああ、びっくり.mp3"
+				},
+				{
+					"slide": "fight.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "さてさて、例を挙げれば他にもまだまだ幾らでもありますが、アメリカの話をしたい訳ではないのでこの辺にしておきましょうか。",
+					"color": "",
+					"voice": "087_青山龍星_さてさて、例を挙げ.mp3"
+				},
+				{
+					"slide": "fight.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "とりあえず「日本社会とアメリカ社会がいかに違うか」それがなんとなく想像できましたよね？",
+					"color": "",
+					"voice": "088_青山龍星_とりあえず、日本社.mp3"
+				},
+				{
+					"slide": "fight.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "政治に何を求めるのか？ 学校教育に何を求めるのか？ 警察に何を求めるのか？  どれも全然違うものになるでしょう。",
+					"color": "",
+					"voice": "089_青山龍星_政治に何を求めるの.mp3"
+				},
+				{
+					"slide": "fight.webp",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "それならば当然「より良い社会を作るために働く公務員の仕事」も、全然違うものになるはずではありませんか？",
+					"color": "",
+					"voice": "090_青山龍星_それならば当然、よ.mp3"
+				},
+				{
+					"slide": "fight.webp",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "そう……だよね？ それはそうなりますよね。",
+					"color": "darkred",
+					"voice": "091_雨晴はう_そーうだよね？.mp3"
+				}
+			]
+		},
+		{
+			"title": "良い社会とは？",
+			"subtitle": [
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "ということで改めて「日本における良い社会とは何か？」という問いに戻ってきます。",
+					"color": "",
+					"voice": "092_青山龍星_ということで改めて.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "公務員の仕事が「より良い社会を作って、国民の安全と幸せを守ること」だとするならば、",
+					"color": "",
+					"voice": "093_青山龍星_公務員の仕事が「よ.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「日本における良い社会とは何なのか？」「日本人はどんな国民性で、どんなことを望んでいるのか？」それが分からないと、お話になりません。",
+					"color": "",
+					"voice": "094_青山龍星_「日本における良い.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「抽象的で上手く説明できない」とか、そんな言い訳は通じないことが分かるでしょう。",
+					"color": "",
+					"voice": "095_青山龍星_「抽象的で上手く説.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "うぐ……、うぐぐぐぐ……",
+					"color": "darkred",
+					"voice": "096_雨晴はう_うぐー、うぐぐぐぐー.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "とはいえ、いきなりそんなことを言われても上手く答えられない気持ちはよく分かります。それも日本らしさが背景にありますしね。",
+					"color": "",
+					"voice": "097_青山龍星_とはいえ、いきなり.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "しかし、もし今すぐには答えられないとしても、いずれは明確に答えなければなりません。公務員を目指すならそれくらいは最低条件です。",
+					"color": "",
+					"voice": "098_青山龍星_しかし、もし今すぐ.mp3"
+				},
+				{
+					"slide": "goodsociety.jpg",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "では、どうすればいいのでしょうか？",
+					"color": "",
+					"voice": "099_青山龍星_では、どうすればい.mp3"
+				}
+			]
+		},
+		{
+			"title": "日本史を学ぶ意義",
+			"subtitle": [
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「日本における良い社会とは何なのか？」この問いに答えるためには、どんなことを知らなければならないのでしょうか？",
+					"color": "",
+					"voice": "100_青山龍星_「日本における良い.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "そのためにはきっと、本当に色々なことを調べなおす必要があるでしょう。",
+					"color": "",
+					"voice": "101_青山龍星_そのためにはきっと.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "例えば「普段の生活や仕事、趣味や娯楽、人口分布や主要産業、海外との関係性」など、本当にいろんな要素が絡まり合って社会は出来ているのです。",
+					"color": "",
+					"voice": "102_青山龍星_例えば、普段の生活.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "そして、その中の要素の１つとして「歴史」もあるのではないでしょうか。それが日本史を学ぶ目的です。",
+					"color": "",
+					"voice": "103_青山龍星_そして、その中の要.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "例えば、多くの日本人は無宗教なのに、神社仏閣は身近にあるんですよね。",
+					"color": "",
+					"voice": "104_青山龍星_例えば、多くの日本.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "あるいは、日本の野球少年は、今なお丸坊主がスタンダードなんですよね。",
+					"color": "",
+					"voice": "105_青山龍星_あるいは、日本の野.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "こういったものにも歴史的な背景があるんです。現代社会だけを見てもその実態は掴めません。",
+					"color": "",
+					"voice": "106_青山龍星_こういったものにも.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "またアメリカを例に挙げるなら、独立闘争の歴史を知らずして現在の銃社会を知ることは出来ないように、",
+					"color": "",
+					"voice": "107_青山龍星_またアメリカを例に.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "日本の歴史を知らずして、現在の日本を知ることが出来ないケースも多々あるのです。",
+					"color": "",
+					"voice": "108_青山龍星_日本の歴史を知らず.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "日本史を学ぶこと自体に目的がある訳ではありません。",
+					"color": "",
+					"voice": "109_青山龍星_日本史を学ぶこと自.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "「今後の日本をより良い社会にする」その目的のためには、歴史の中からもヒントを探っていく必要があるということなんですね。",
+					"color": "",
+					"voice": "110_青山龍星_今後の日本をより良.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "さあいかがでしょうか？ 今回、日本史について何1つ学んでいませんが「日本史を学ぶ意義」のようなものが見えてきませんでしたか？",
+					"color": "",
+					"voice": "111_青山龍星_さあいかがでしょう.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "青山龍星（喜び）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "",
+					"text": "この調子で、今後も全然知識として身につかない日本史を学んでいきましょう！",
+					"color": "",
+					"voice": "112_青山龍星_この調子で、今後も.mp3"
+				},
+				{
+					"slide": "history-jp.png",
+					"actor": "雨晴はう（ノーマル）",
+					"actorImg": "anime_fujitsuka.png",
+					"anime": true,
+					"listener": "bike_girl.png",
+					"text": "ええ……",
+					"color": "darkred",
+					"voice": "113_雨晴はう_えええ.mp3"
 				}
 			]
 		}
-	]
+	],
+	"nextLink": {
+		"name": "",
+		"href": ""
+	}
 }
